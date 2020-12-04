@@ -5,3 +5,4 @@ while(angkot <= jmlAngkot) {
     console.log('Angkot No. ' + angkot + ' Beroperasi dengan baik.');
     angkot++;
 }
+//

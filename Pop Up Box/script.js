@@ -14,6 +14,7 @@ if (tes === true){
 }else { 
     alert('User Menekan Cancel');
 }*/
+//
 
 alert('Selamat Datang');
 var lagi = true;

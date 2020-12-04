@@ -31,7 +31,7 @@
 //         }else {alert ('Kesempatan Kamu Habis!\n Angka Yang Diminta Adalah '+c)}
 // s=confirm('Apakah Mau Main Lagi ?');
 // }
-
+//
 // alert('Terimakasih Telah Bermain!');
 
  i=2;

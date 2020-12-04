@@ -22,7 +22,7 @@ for (noAngkot; noAngkot <= jmlAngkot; noAngkot++){
     }
     
 }*/
-
+//
 var jmlAngkot = 10;
 var angkotBeroperasi = 6;
 var noAngkot = 1;

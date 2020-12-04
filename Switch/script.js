@@ -14,7 +14,7 @@ switch(ekspresi) {
     [break;]
 }
 */
-
+//
 /*var angka = parseInt(prompt('Masukkan Angka : '));
 if (angka == 1){
     alert('Anda Memasukkan Angka 1');

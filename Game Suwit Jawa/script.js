@@ -1,6 +1,6 @@
 var tanya = true;
 while(tanya) {
-
+    //
     //menangkap pilihan player
     var p = prompt('Pilih : *Gajah, *Semut, *Orang : ');
 
