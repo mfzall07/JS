@@ -5,12 +5,12 @@
 //function identifier opt (ParameterList opt) { FunctionBody }
 
 
-// function tampilPesan(nama) {
-//     alert('halo '+ nama);
-// }
+function tampilPesan(nama) {
+    alert('halo '+ nama);
+}
 
-// var nama = prompt('Masukkan Nama : ');
-// var hasil = alert(nama);
+var nama = prompt('Masukkan Nama : ');
+var hasil = alert(nama);
 
 
 //Declaration
